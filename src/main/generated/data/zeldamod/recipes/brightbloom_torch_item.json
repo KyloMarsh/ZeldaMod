@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:brightbloom_seeds"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "B  ",
+    "S  "
+  ],
+  "result": {
+    "item": "zeldamod:brightbloom_torch_item"
+  },
+  "show_notification": true
+}

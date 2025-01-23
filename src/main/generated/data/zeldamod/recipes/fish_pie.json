@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "M": {
+      "item": "minecraft:cooked_cod"
+    },
+    "S": {
+      "item": "zeldamod:rock_salt"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "MMM",
+    "SBS"
+  ],
+  "result": {
+    "item": "zeldamod:fish_pie"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,61 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_monster_extract": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:monster_extract"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:rice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rock_salt": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:rock_salt"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zeldamod:monster_rice_balls"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_monster_extract",
+      "has_rock_salt",
+      "has_rice"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zeldamod:monster_rice_balls"
+    ]
+  },
+  "sends_telemetry_event": false
+}

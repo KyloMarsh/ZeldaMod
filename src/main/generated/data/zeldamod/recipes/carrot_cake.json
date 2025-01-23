@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "CCC",
+    "SBS"
+  ],
+  "result": {
+    "item": "zeldamod:carrot_cake"
+  },
+  "show_notification": true
+}

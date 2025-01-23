@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zeldamod:monster_extract"
+    },
+    {
+      "item": "zeldamod:goron_spice"
+    },
+    {
+      "item": "zeldamod:rice"
+    }
+  ],
+  "result": {
+    "item": "zeldamod:monster_curry"
+  }
+}

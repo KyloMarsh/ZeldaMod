@@ -1,0 +1,10 @@
+// 1.20.2	2023-12-15T04:33:14.181338	Zelda Mod/Tags for minecraft:block
+f716c0ab64355c900d4197c90f6c4d5da1c9c802 data\minecraft\tags\blocks\mineable\hoe.json
+d4f09fdd171c70636a9064fefa2b54e163f11200 data\minecraft\tags\blocks\needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+f716c0ab64355c900d4197c90f6c4d5da1c9c802 data\fabric\tags\blocks\needs_tool_level_4.json
+a2dbc72d1b273f0ea82c296403fbe122db6f80ad data\minecraft\tags\blocks\needs_diamond_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\sword_efficient.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+cdca922e725d19d8871fe17bdd6de54d45e442f6 data\minecraft\tags\blocks\needs_stone_tool.json
+781c6e1c2b8410d59df7d4a4b3b1f27128a53159 data\minecraft\tags\blocks\mineable\pickaxe.json

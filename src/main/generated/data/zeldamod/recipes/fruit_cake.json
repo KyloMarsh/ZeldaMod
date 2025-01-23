@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "F": {
+      "item": "minecraft:sweet_berries"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "FFF",
+    "SBS"
+  ],
+  "result": {
+    "item": "zeldamod:fruit_cake"
+  },
+  "show_notification": true
+}

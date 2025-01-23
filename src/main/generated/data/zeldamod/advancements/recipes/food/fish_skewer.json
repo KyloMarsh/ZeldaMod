@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cooked_cod": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_cod"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stick": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zeldamod:fish_skewer"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cooked_cod",
+      "has_stick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zeldamod:fish_skewer"
+    ]
+  },
+  "sends_telemetry_event": false
+}

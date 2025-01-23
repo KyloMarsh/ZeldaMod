@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "zeldamod:silver_ore",
+    "zeldamod:deepslate_silver_ore",
+    "zeldamod:silver_block",
+    "zeldamod:tungsten_ore",
+    "zeldamod:deepslate_tungsten_ore",
+    "zeldamod:tungsten_block",
+    "zeldamod:tungsten_block",
+    "zeldamod:zonaite_ore",
+    "zeldamod:deepslate_zonaite_ore",
+    "zeldamod:amber_ore",
+    "zeldamod:amber_block",
+    "zeldamod:opal_ore",
+    "zeldamod:opal_block",
+    "zeldamod:ruby_ore",
+    "zeldamod:ruby_block",
+    "zeldamod:sapphire_ore",
+    "zeldamod:sapphire_block",
+    "zeldamod:topaz_ore",
+    "zeldamod:topaz_block",
+    "zeldamod:luminous_stone_block"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zeldamod:monster_extract"
+    },
+    {
+      "item": "zeldamod:rock_salt"
+    },
+    {
+      "item": "zeldamod:rice"
+    }
+  ],
+  "result": {
+    "item": "zeldamod:monster_rice_balls"
+  }
+}

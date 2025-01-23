@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "M": {
+      "item": "zeldamod:monster_extract"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "MMM",
+    "SBS"
+  ],
+  "result": {
+    "item": "zeldamod:monster_cake"
+  },
+  "show_notification": true
+}

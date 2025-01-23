@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "zeldamod:block/wall_brightbloom_torch"
+    },
+    "facing=north": {
+      "model": "zeldamod:block/wall_brightbloom_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "zeldamod:block/wall_brightbloom_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "zeldamod:block/wall_brightbloom_torch",
+      "y": 180
+    }
+  }
+}

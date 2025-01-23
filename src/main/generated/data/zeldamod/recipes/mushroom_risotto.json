@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:bowl"
+    },
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "R": {
+      "item": "zeldamod:rice"
+    },
+    "S": {
+      "item": "zeldamod:rock_salt"
+    },
+    "V": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "pattern": [
+    " V ",
+    "SRB",
+    " # "
+  ],
+  "result": {
+    "item": "zeldamod:mushroom_risotto"
+  },
+  "show_notification": true
+}

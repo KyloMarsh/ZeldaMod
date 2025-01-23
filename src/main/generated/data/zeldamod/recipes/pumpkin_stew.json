@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "zeldamod:butter"
+    },
+    "C": {
+      "item": "minecraft:bowl"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "P": {
+      "item": "minecraft:pumpkin"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    " W ",
+    "MPB",
+    " C "
+  ],
+  "result": {
+    "item": "zeldamod:pumpkin_stew"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,61 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_goron_spice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:goron_spice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_monster_extract": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:monster_extract"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_rice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:rice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zeldamod:monster_curry"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_monster_extract",
+      "has_goron_spice",
+      "has_rice"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zeldamod:monster_curry"
+    ]
+  },
+  "sends_telemetry_event": false
+}

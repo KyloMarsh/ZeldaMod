@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "zeldamod:block/bomb_flower_plant"
+  }
+}

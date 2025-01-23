@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "R": {
+      "item": "zeldamod:radish"
+    }
+  },
+  "pattern": [
+    "MRM",
+    " B "
+  ],
+  "result": {
+    "item": "zeldamod:radish_soup"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " F ",
+    " F ",
+    " S "
+  ],
+  "result": {
+    "item": "zeldamod:fish_skewer"
+  },
+  "show_notification": true
+}

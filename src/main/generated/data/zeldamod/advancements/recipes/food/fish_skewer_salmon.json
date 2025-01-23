@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cooked_salmon": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_salmon"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stick": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:fish_skewer_salmon"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cooked_salmon",
+      "has_stick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:fish_skewer_salmon"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_brightbloom_seeds": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zeldamod:brightbloom_seeds"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_stick": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stick"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zeldamod:brightbloom_torch_item"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_brightbloom_seeds",
+      "has_stick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zeldamod:brightbloom_torch_item"
+    ]
+  },
+  "sends_telemetry_event": false
+}

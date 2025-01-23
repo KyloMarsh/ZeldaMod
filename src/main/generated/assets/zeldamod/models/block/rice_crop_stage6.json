@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "zeldamod:block/rice_crop_stage6"
+  }
+}

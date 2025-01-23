@@ -1,0 +1,42 @@
+{
+  "song_of_time": {
+    "sounds": [
+      "zeldamod:song_of_time"
+    ]
+  },
+  "song_of_storms": {
+    "sounds": [
+      "zeldamod:song_of_storms"
+    ]
+  },
+  "call_loftwing": {
+    "sounds": [
+      "zeldamod:call_loftwing"
+    ]
+  },
+  "ballad_of_gales": {
+    "sounds": [
+      "zeldamod:ballad_of_gales"
+    ]
+  },
+  "ballad_of_the_goddess": {
+    "sounds": [
+      "zeldamod:ballad_of_the_goddess"
+    ]
+  },
+  "sailcloth_sound": {
+    "sounds": [
+      "zeldamod:sailcloth_sound"
+    ]
+  },
+  "song_of_discovery": {
+    "sounds": [
+      "zeldamod:song_of_discovery"
+    ]
+  },
+  "majoras_laugh": {
+    "sounds": [
+      "zeldamod:majoras_laugh"
+    ]
+  }
+}

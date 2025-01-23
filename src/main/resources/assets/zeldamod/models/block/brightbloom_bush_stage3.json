@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "zeldamod:block/brightbloom_bush_stage3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "zeldamod:block/stripped_sky_oak_log",
+    "side": "zeldamod:block/stripped_sky_oak_log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "zeldamod:sky_oak_log",
+    "zeldamod:sky_oak_wood",
+    "zeldamod:stripped_sky_oak_log",
+    "zeldamod:stripped_sky_oak_wood"
+  ]
+}

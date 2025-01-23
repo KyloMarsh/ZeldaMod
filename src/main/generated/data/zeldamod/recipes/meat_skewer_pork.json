@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " P ",
+    " P ",
+    " S "
+  ],
+  "result": {
+    "item": "zeldamod:meat_skewer"
+  },
+  "show_notification": true
+}
